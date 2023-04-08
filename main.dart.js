@@ -94526,7 +94526,7 @@ r.a=s
 r.ae()
 A.aJm(o,new A.vs(p),!0)
 A.bi(o,!1,t.fc).XV()}else if("meus_dados"===a){s=A.bi(o,!1,t.f7).a
-A.bi(o,!1,t.fc).hc(0,new A.l2("Meus Dados",new A.P6(s,p)))}else if("download_app"===a){q=A.aTQ("/assets/app-reader.apk")
+A.bi(o,!1,t.fc).hc(0,new A.l2("Meus Dados",new A.P6(s,p)))}else if("download_app"===a){q=A.aTQ("/assets/assets/app-reader.apk")
 q.download="AppReader"
 q.click()}},
 $S:35}
