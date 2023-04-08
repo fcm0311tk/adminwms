@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "43f23a017700215ef92dc32114845c51",
+  "assets/AssetManifest.json": "7478c2eaf70d31cd850a5faead5718e5",
+"assets/assets/app-reader.apk": "4f54e18379ccfbf36343bf516a1455ef",
 "assets/assets/fonts/Mansalva-Regular.ttf": "b39005b7257f6b2a79116e3af7459944",
 "assets/assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/assets/imgs/avatar04.png": "f2dd25735c265d934f4c98ccaea503bd",
@@ -39,9 +40,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
 "icons/Icon-maskable-192.png": "5aec459f67291240d02b3dc67419eb76",
 "icons/Icon-maskable-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
-"index.html": "ca9eb58b17c14c7b8a12cb85a8f6fe45",
-"/": "ca9eb58b17c14c7b8a12cb85a8f6fe45",
-"main.dart.js": "01061315a5da54608ed4ff6a4f82ec03",
+"index.html": "915943239a89d2d5a3323992b9aa603d",
+"/": "915943239a89d2d5a3323992b9aa603d",
+"main.dart.js": "16f8c531e04bc683eaf739e011fbf34a",
 "manifest.json": "4b487a972040eb0a4b9f9e123ea5534d",
 "version.json": "4488f9e916247b62a3b7b3ef90ddb204"
 };
