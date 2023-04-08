@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c69ae087c8113fac01ffd26359584007",
+  "assets/AssetManifest.json": "43f23a017700215ef92dc32114845c51",
 "assets/assets/fonts/Mansalva-Regular.ttf": "b39005b7257f6b2a79116e3af7459944",
 "assets/assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/assets/imgs/avatar04.png": "f2dd25735c265d934f4c98ccaea503bd",
@@ -19,16 +19,13 @@ const RESOURCES = {
 "assets/assets/imgs/logo500.jpeg": "dcc2e587ae9cc61dc578f70d4eddc205",
 "assets/assets/imgs/user_logo.png": "f601d1bb757472323452725f6e7db9f4",
 "assets/assets/search_types.json": "4a3c4b426935f45899176bb28aaffc05",
-"assets/FontManifest.json": "8fb17a8d5a198ae6b012137112e834b3",
+"assets/FontManifest.json": "80a4b360d4969205941be5fac7f91b77",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "26ca81faf714f8c9a9adf63faa6aac6a",
+"assets/NOTICES": "8c2518b0f38cbac01138004d5c94ea00",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "9cda082bd7cc5642096b56fa8db15b45",
-"assets/packages/map_picker_flutter/assets/ic_location.png": "06d746053d667530546760ec8ca0fdee",
-"assets/packages/syncfusion_flutter_datagrid/assets/font/FilterIcon.ttf": "c17d858d09fb1c596ef0adbf08872086",
-"assets/packages/syncfusion_flutter_datagrid/assets/font/UnsortIcon.ttf": "6d8ab59254a120b76bf53f167e809470",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -42,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
 "icons/Icon-maskable-192.png": "5aec459f67291240d02b3dc67419eb76",
 "icons/Icon-maskable-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
-"index.html": "91995981712ba2a8d9f8f711b5085c2f",
-"/": "91995981712ba2a8d9f8f711b5085c2f",
-"main.dart.js": "7543b210696e2d0cb2d717a6611f09a5",
+"index.html": "ca9eb58b17c14c7b8a12cb85a8f6fe45",
+"/": "ca9eb58b17c14c7b8a12cb85a8f6fe45",
+"main.dart.js": "01061315a5da54608ed4ff6a4f82ec03",
 "manifest.json": "4b487a972040eb0a4b9f9e123ea5534d",
 "version.json": "4488f9e916247b62a3b7b3ef90ddb204"
 };
