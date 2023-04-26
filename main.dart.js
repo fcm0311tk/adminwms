@@ -103309,13 +103309,13 @@ s.toString
 this.d.fi(0,s)},
 aqr(a,b){return J.ee(b,new A.aHF(this),t.cU).d6(0)},
 aA7(a){var s
-if(A.C(a)===B.a4j){A.ce("Toggled A Row.")
+if(A.C(a)===B.a4j){A.ce("Alternando uma linha.")
 s=a.a
 if(s==null)s=null
 else{s=s.c.i(0,"numberDocument")
 if(s==null)s=null
 else{if(s.d)s.cJ()
-s=s.b}}A.ce("CheckClicado: "+A.f(s))}else{A.ce("Toggled All Rows.")
+s=s.b}}A.ce("CheckClicado: "+A.f(s))}else{A.ce("Alternando todas as Linhas.")
 s=this.x
 s===$&&A.b()
 A.ce(s.gavE().length)}},
@@ -103678,7 +103678,7 @@ r.a9()
 A.aSn(o,new A.xv(p),!0)
 A.bs(o,!1,t.fc).a2w()}else if("meus_dados"===a){s=A.bs(o,!1,t.f7).a
 A.bs(o,!1,t.fc).hM(0,new A.lY("Meus Dados",new A.SA(s,p)))}else if("download_app"===a){q=A.b2M("http://ec2-54-147-203-169.compute-1.amazonaws.com:9092/'appreader/app-reader.apk'")
-q.download="reader"
+q.download="app-reader"
 q.click()}},
 $S:22}
 A.aEX.prototype={
