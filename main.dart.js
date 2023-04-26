@@ -103677,7 +103677,7 @@ r.a=s
 r.a9()
 A.aSn(o,new A.xv(p),!0)
 A.bs(o,!1,t.fc).a2w()}else if("meus_dados"===a){s=A.bs(o,!1,t.f7).a
-A.bs(o,!1,t.fc).hM(0,new A.lY("Meus Dados",new A.SA(s,p)))}else if("download_app"===a){q=A.b2M("http://ec2-54-147-203-169.compute-1.amazonaws.com:9092/'appreader/app-reader.apk'")
+A.bs(o,!1,t.fc).hM(0,new A.lY("Meus Dados",new A.SA(s,p)))}else if("download_app"===a){q=A.b2M("/assets/app-reader.apk")
 q.download="app-reader"
 q.click()}},
 $S:22}
