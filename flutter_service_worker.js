@@ -50,9 +50,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
 "icons/Icon-maskable-192.png": "5aec459f67291240d02b3dc67419eb76",
 "icons/Icon-maskable-512.png": "0ce3186a034bc9fe66f8d053a69cb2dc",
-"index.html": "dcd4e86bddb4d426eb91ce7d348e0a3e",
-"/": "dcd4e86bddb4d426eb91ce7d348e0a3e",
-"main.dart.js": "def5fdebf5899f4e3af37665cd225e67",
+"index.html": "071f37a2c79d0343b5ddbce39eb719dd",
+"/": "071f37a2c79d0343b5ddbce39eb719dd",
+"main.dart.js": "0fe27f7d3e307cacfb7e00d71a0d48f2",
 "manifest.json": "4b487a972040eb0a4b9f9e123ea5534d",
 "version.json": "4488f9e916247b62a3b7b3ef90ddb204"
 };
